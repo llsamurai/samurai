@@ -1,0 +1,27 @@
+p{
+    font-size: 23px;
+    text-align: center;
+}
+.ddd{
+    display: flex;
+    justify-content: end;
+    align-content: end;
+    width: 100%;
+
+}
+h1{text-align: center;}
+
+img{
+    width: 300px;
+    margin: 10px 18px;
+    border: solid 10px;
+}
+.ba{
+    background-color: #564747;
+    width: 80%;
+    border-radius:10px ;
+}
+.hj{
+display: flex;
+justify-content: center;
+}

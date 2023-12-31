@@ -142,4 +142,18 @@ background-color: rgb(255, 255, 255);
             }
         /* } */
 
+    .a{
+       text-decoration: none;
     
+    
+    }
+    .fdf{
+        display: flex;
+        justify-content: end;
+
+    width: 100%;
+    }
+    .asdfw{
+        margin: 3px 20px;
+        width: 300px
+    }
