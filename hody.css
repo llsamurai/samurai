@@ -90,7 +90,8 @@ body{
 @media screen and (max-width:600px){
     img{ width: 180px;}
     p{font-weight:30px ;}
-    .container{ height: 63vh; width: 95%;}
+    .container{ height: auto; width: 95%;}
+    .content{height: auto;}
     .image{
         display: flex;
         justify-content: center;
