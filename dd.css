@@ -103,15 +103,16 @@ background-color: rgb(255, 255, 255);
     }
     @media screen and (max-width:650px){
         .hhj{
-            width: auto;
+            width: 90px;
         }
         .asd{
-            width: auto;
+            width: 90px;
         }
         a{
             width: auto;
         }
-        .imaf{width: 70px;}
+        .imaf{width: 65px;
+        margin: 10px;}
         .jjk{
             width: 80px;
             font-size: 12px;
