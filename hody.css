@@ -91,7 +91,7 @@ body{
     img{ width: 180px;}
     p{font-weight:30px ;}
     .container{ height: auto; width: 95%;}
-    .content{height: auto;}
+    .content{height: 380px;}
     .image{
         display: flex;
         justify-content: center;
